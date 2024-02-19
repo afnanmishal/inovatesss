@@ -1,0 +1,1 @@
+<?php /**PATH F:\watch\resources\views/welcome.blade.php ENDPATH**/ ?>
